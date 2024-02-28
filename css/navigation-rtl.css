@@ -1,0 +1,108 @@
+#main-menu-desktop{
+	font-family: "NotoSansArabic Medium";
+	-webkit-box-shadow: 0px 5px 5px -1px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 5px 5px -1px rgba(0,0,0,0.2);
+	box-shadow: 0px 5px 5px -1px rgba(0,0,0,0.2);
+
+
+}
+#main-menu-desktop .navbar{
+	background-color: #fff;
+    padding: 0px;
+}
+
+#main-menu-desktop .navbar-brand{
+	max-height: 100px;
+}
+
+#main-menu-desktop .login-btn{
+	color: #fff;
+	border-radius: 10px;
+}
+
+#main-menu-desktop .logo img{
+	max-height: 5rem;
+}
+
+#main-menu-desktop .menu-left .nav-link{
+	padding: 0.5rem 1.5rem;
+	color: #000;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#main-menu-desktop .menu-left .nav-link:hover,
+#main-menu-desktop .menu-left .nav-link.active{
+	color: #135A9F;
+}
+
+#main-menu-desktop .menu-right .nav-link{
+	padding: 0.5rem 1rem
+}
+
+#main-menu-desktop .menu-right .nav-link>i{
+	color: #8eafd1;
+    font-size: 20px
+}
+#main-menu-desktop .menu-right .nav-link>i:hover{
+	color: #135A9F;
+}
+
+#main-menu-desktop .navbar-toggler,
+#main-menu-desktop .navbar-toggler:focus{
+	border: 3px solid #135A9F;
+	padding: 6px 12px;
+    box-shadow: none;
+}
+
+#main-menu-desktop .navbar-toggler>i{
+	color: #135A9F;
+}
+
+.fixed-top{    
+	-webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+ 	-webkit-box-shadow: 0px 5px 5px -1px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 5px 5px -1px rgba(0,0,0,0.2);
+	box-shadow: 0px 5px 5px -1px rgba(0,0,0,0.2);
+
+}
+
+#main-menu-mobile .social-media span{
+
+}
+
+#main-menu-mobile .menu-right .nav-link>i{
+	color: #8eafd1;
+    font-size: 20px
+}
+#main-menu-mobile .menu-right .nav-link>i:hover{
+	color: #135A9F;
+}
+
+
+#main-menu-mobile .list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    background-color: #fff;
+    border: none;
+}
+
+#main-menu-mobile .login-btn{
+	color: #fff;
+	border-radius: 10px;
+}
+
+#main-menu-mobile .menu-left .nav-link{
+	padding: 0.5rem 1.5rem;
+	color: #000;
+}
+
+#main-menu-mobile .menu-left .nav-link:hover,
+#main-menu-mobile .menu-left .nav-link.active{
+	color: #135A9F;
+}
